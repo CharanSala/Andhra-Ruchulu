@@ -54,7 +54,7 @@ const Hero = () => {
           {/* Visual Elements */}
           <div className="relative mt-10 lg:mt-0">
             <div className="relative rounded-3xl overflow-hidden shadow-2xl aspect-[4/5] lg:aspect-square">
-              <img src="/@fs/C:/Users/salac/.gemini/antigravity/brain/df7e4c73-1cd7-4e5d-ab17-eb74c411be8a/hero_biryani_1775802060081.png" alt="Authentic Biryani" className="object-cover w-full h-full" />
+              <img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/%22Hyderabadi_Dum_Biryani%22.jpg" alt="Authentic Biryani" className="object-cover w-full h-full" />
               <div className="absolute inset-0 bg-gradient-to-t from-black/70 via-black/20 to-transparent"></div>
               
               <div className="absolute bottom-8 left-8 right-8">

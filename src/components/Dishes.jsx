@@ -4,25 +4,25 @@ const dishes = [
   {
     name: "Hyderabadi Dum Biryani",
     desc: "The world-famous biryani, slow-cooked with tender meat and aromatic spices.",
-    img: "/@fs/C:/Users/salac/.gemini/antigravity/brain/df7e4c73-1cd7-4e5d-ab17-eb74c411be8a/hero_biryani_1775802060081.png",
+    img: "https://upload.wikimedia.org/wikipedia/commons/5/5a/%22Hyderabadi_Dum_Biryani%22.jpg",
     tag: "Must Try"
   },
   {
     name: "Gongura Mamsam",
     desc: "A fiery red meat curry cooked with tangy sorrel leaves, specific to the Guntur region.",
-    img: "/@fs/C:/Users/salac/.gemini/antigravity/brain/df7e4c73-1cd7-4e5d-ab17-eb74c411be8a/dish_gongura_1775802088259.png",
+    img: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Mutton_Curry%2C_India.jpg/800px-Mutton_Curry%2C_India.jpg",
     tag: "Spicy"
   },
   {
     name: "Bhimavaram Royyalu",
     desc: "Deep-fried prawns tossed in coastal Godavari spices, curry leaves, and green chilies.",
-    img: "/@fs/C:/Users/salac/.gemini/antigravity/brain/df7e4c73-1cd7-4e5d-ab17-eb74c411be8a/dish_royyalu_1775802104193.png",
+    img: "https://upload.wikimedia.org/wikipedia/commons/e/ea/Prawns_fry.JPG",
     tag: "Godavari Special"
   },
   {
     name: "Pootharekulu",
     desc: "The 'paper sweet' of Atreyapuram. Fine rice starch layers folded with ghee and jaggery.",
-    img: "/@fs/C:/Users/salac/.gemini/antigravity/brain/df7e4c73-1cd7-4e5d-ab17-eb74c411be8a/dish_pootharekulu_1775802121085.png",
+    img: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Pootharekulu_traditional_sweet_from_Andhra_Pradesh.jpg/800px-Pootharekulu_traditional_sweet_from_Andhra_Pradesh.jpg",
     tag: "Traditional Sweet"
   }
 ];

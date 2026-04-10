@@ -8,7 +8,7 @@ const restaurants = [
     location: "Kakinada & Output",
     rating: 4.8,
     reviews: "5.2k",
-    img: "/@fs/C:/Users/salac/.gemini/antigravity/brain/df7e4c73-1cd7-4e5d-ab17-eb74c411be8a/restaurant_exterior_1775802137905.png",
+    img: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Paradise_Hotel_in_Secunderabad.jpg/800px-Paradise_Hotel_in_Secunderabad.jpg",
     specialty: "Butta Bhojanam"
   },
   {
@@ -17,7 +17,7 @@ const restaurants = [
     location: "Visakhapatnam",
     rating: 4.6,
     reviews: "8.4k",
-    img: "/@fs/C:/Users/salac/.gemini/antigravity/brain/df7e4c73-1cd7-4e5d-ab17-eb74c411be8a/restaurant_exterior_1775802137905.png",
+    img: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Bawarchi_Restaurant%2C_RTC_X_Roads.jpg/800px-Bawarchi_Restaurant%2C_RTC_X_Roads.jpg",
     specialty: "Chicken Fry Piece Biryani"
   },
   {
@@ -26,7 +26,7 @@ const restaurants = [
     location: "Hyderabad & Kurnool",
     rating: 4.5,
     reviews: "12k",
-    img: "/@fs/C:/Users/salac/.gemini/antigravity/brain/df7e4c73-1cd7-4e5d-ab17-eb74c411be8a/restaurant_exterior_1775802137905.png",
+    img: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Paradise_Hotel_in_Secunderabad.jpg/800px-Paradise_Hotel_in_Secunderabad.jpg",
     specialty: "Natu Kodi Pulusu"
   },
   {
@@ -35,7 +35,7 @@ const restaurants = [
     location: "RTC X Roads, Hyd",
     rating: 4.9,
     reviews: "45k",
-    img: "/@fs/C:/Users/salac/.gemini/antigravity/brain/df7e4c73-1cd7-4e5d-ab17-eb74c411be8a/restaurant_exterior_1775802137905.png",
+    img: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Bawarchi_Restaurant%2C_RTC_X_Roads.jpg/800px-Bawarchi_Restaurant%2C_RTC_X_Roads.jpg",
     specialty: "Mutton Dum Biryani"
   }
 ];
