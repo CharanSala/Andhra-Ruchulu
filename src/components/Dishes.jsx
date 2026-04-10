@@ -4,22 +4,22 @@ const dishes = [
   {
     name: "Hyderabadi Dum Biryani",
     desc: "The world-famous biryani, slow-cooked with tender meat and aromatic spices.",
-    img: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Biryani_Home.jpg/800px-Biryani_Home.jpg",
+    img: "/images/hero_biryani.png",
   },
   {
     name: "Gongura Mamsam",
     desc: "A fiery red meat curry cooked with tangy sorrel leaves, specific to the Guntur region.",
-    img: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Mutton_Curry%2C_India.jpg/800px-Mutton_Curry%2C_India.jpg",
+    img: "/images/dish_gongura.png",
   },
   {
     name: "Bhimavaram Royyalu",
     desc: "Deep-fried prawns tossed in coastal Godavari spices, curry leaves, and green chilies.",
-    img: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Prawn_Fry.jpg/800px-Prawn_Fry.jpg",
+    img: "/images/dish_royyalu.png",
   },
   {
     name: "Pootharekulu",
     desc: "The 'paper sweet' of Atreyapuram. Fine rice starch layers folded with ghee and jaggery.",
-    img: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Pootharekulu_traditional_sweet_from_Andhra_Pradesh.jpg/800px-Pootharekulu_traditional_sweet_from_Andhra_Pradesh.jpg",
+    img: "/images/dish_pootharekulu.png",
   }
 ];
 
