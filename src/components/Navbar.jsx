@@ -26,13 +26,11 @@ const Navbar = () => {
           </span>
         </div>
 
-        {/* Desktop Menu */}
         <div className="hidden md:flex items-center space-x-8">
           <a href="#home" className="text-sm font-bold text-slate-700 hover:text-spicy-600 transition-colors">Home</a>
-          <a href="#dishes" className="text-sm font-bold text-slate-700 hover:text-spicy-600 transition-colors">Iconic Dishes</a>
-          <a href="#restaurants" className="text-sm font-bold text-slate-700 hover:text-spicy-600 transition-colors">Top Spots</a>
+          <a href="#dishes" className="text-sm font-bold text-slate-700 hover:text-spicy-600 transition-colors">Menu</a>
           <a href="#explore" className="px-6 py-2.5 bg-spicy-600 text-white text-sm font-bold rounded-full shadow-lg shadow-spicy-500/30 hover:bg-spicy-500 transition-all duration-300 transform hover:-translate-y-0.5">
-            Discover
+            Reserve Table
           </a>
         </div>
 
@@ -48,10 +46,9 @@ const Navbar = () => {
       {menuOpen && (
         <div className="md:hidden absolute top-full left-0 w-full bg-white shadow-2xl border-t border-slate-100 flex flex-col py-6 px-6 space-y-6">
           <a href="#home" className="text-base font-bold text-slate-800 hover:text-spicy-600" onClick={() => setMenuOpen(false)}>Home</a>
-          <a href="#dishes" className="text-base font-bold text-slate-800 hover:text-spicy-600" onClick={() => setMenuOpen(false)}>Iconic Dishes</a>
-          <a href="#restaurants" className="text-base font-bold text-slate-800 hover:text-spicy-600" onClick={() => setMenuOpen(false)}>Top Spots</a>
+          <a href="#dishes" className="text-base font-bold text-slate-800 hover:text-spicy-600" onClick={() => setMenuOpen(false)}>Menu</a>
           <a href="#explore" className="w-full text-center px-6 py-3 bg-spicy-600 text-white text-base font-bold rounded-full shadow-lg" onClick={() => setMenuOpen(false)}>
-            Discover Places
+            Reserve Table
           </a>
         </div>
       )}

@@ -2,7 +2,6 @@ import React from 'react';
 import Navbar from './components/Navbar';
 import Hero from './components/Hero';
 import Dishes from './components/Dishes';
-import Restaurants from './components/Restaurants';
 import Footer from './components/Footer';
 
 function App() {
@@ -12,7 +11,6 @@ function App() {
       <main className="flex-grow">
         <Hero />
         <Dishes />
-        <Restaurants />
       </main>
       <Footer />
     </div>

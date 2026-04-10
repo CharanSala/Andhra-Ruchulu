@@ -17,7 +17,7 @@ const Footer = () => {
               </span>
             </div>
             <p className="text-sm leading-relaxed mb-6 font-medium">
-              Your ultimate guide to exploring the fiery, authentic flavors of Andhra Pradesh and Telangana.
+              Your ultimate dining destination for fiery, authentic flavors of Andhra Pradesh and Telangana.
             </p>
             <div className="flex gap-4">
               <a href="#" className="text-slate-500 hover:text-white transition-colors"><Instagram className="w-5 h-5" /></a>
@@ -27,22 +27,22 @@ const Footer = () => {
           </div>
 
           <div>
-            <h4 className="text-white font-bold mb-6 uppercase text-sm tracking-wider">Regions</h4>
+            <h4 className="text-white font-bold mb-6 uppercase text-sm tracking-wider">Our Menu</h4>
             <ul className="space-y-3 text-sm font-medium">
-              <li><a href="#" className="hover:text-spicy-400 transition-colors">Rayalaseema Spice</a></li>
-              <li><a href="#" className="hover:text-spicy-400 transition-colors">Godavari Coastal</a></li>
-              <li><a href="#" className="hover:text-spicy-400 transition-colors">Hyderabad Nawabi</a></li>
-              <li><a href="#" className="hover:text-spicy-400 transition-colors">Guntur Specials</a></li>
+              <li><a href="#" className="hover:text-spicy-400 transition-colors">Special Biryanis</a></li>
+              <li><a href="#" className="hover:text-spicy-400 transition-colors">Veg Meals & Thalis</a></li>
+              <li><a href="#" className="hover:text-spicy-400 transition-colors">Signature Curries</a></li>
+              <li><a href="#" className="hover:text-spicy-400 transition-colors">Traditional Sweets</a></li>
             </ul>
           </div>
 
           <div>
-            <h4 className="text-white font-bold mb-6 uppercase text-sm tracking-wider">Discover</h4>
+            <h4 className="text-white font-bold mb-6 uppercase text-sm tracking-wider">Quick Links</h4>
             <ul className="space-y-3 text-sm font-medium">
-              <li><a href="#" className="hover:text-spicy-400 transition-colors">Top 10 Biryanis</a></li>
-              <li><a href="#" className="hover:text-spicy-400 transition-colors">Vegetarian Thalis</a></li>
-              <li><a href="#" className="hover:text-spicy-400 transition-colors">Street Food Guide</a></li>
-              <li><a href="#" className="hover:text-spicy-400 transition-colors">Traditional Sweets</a></li>
+              <li><a href="#" className="hover:text-spicy-400 transition-colors">About Us</a></li>
+              <li><a href="#" className="hover:text-spicy-400 transition-colors">Catering Services</a></li>
+              <li><a href="#" className="hover:text-spicy-400 transition-colors">Book a Table</a></li>
+              <li><a href="#" className="hover:text-spicy-400 transition-colors">Contact</a></li>
             </ul>
           </div>
 

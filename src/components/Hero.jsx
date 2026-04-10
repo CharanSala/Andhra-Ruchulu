@@ -23,15 +23,15 @@ const Hero = () => {
             </h1>
             
             <p className="text-lg lg:text-xl text-slate-700 mb-8 leading-relaxed font-medium">
-              From the iconic Guntur Biryani to coastal Godavari seafood. Discover the most authentic, mouth-watering local restaurants hidden across Andhra Pradesh.
+              From the iconic Guntur Biryani to coastal Godavari seafood. Step into our doors and experience the most authentic, mouth-watering Telugu dining experience.
             </p>
             
             <div className="flex flex-col sm:flex-row gap-4">
-              <a href="#restaurants" className="inline-flex justify-center items-center gap-2 px-8 py-4 bg-spicy-600 text-white font-bold rounded-full shadow-xl shadow-spicy-500/30 hover:bg-spicy-500 transition-all duration-300 transform hover:-translate-y-1">
-                Find Restaurants <ArrowRight className="w-5 h-5" />
+              <a href="#dishes" className="inline-flex justify-center items-center gap-2 px-8 py-4 bg-spicy-600 text-white font-bold rounded-full shadow-xl shadow-spicy-500/30 hover:bg-spicy-500 transition-all duration-300 transform hover:-translate-y-1">
+                View Menu <ArrowRight className="w-5 h-5" />
               </a>
-              <a href="#dishes" className="inline-flex justify-center items-center gap-2 px-8 py-4 bg-white text-slate-800 font-bold rounded-full border-2 border-slate-200 hover:border-spicy-500 hover:text-spicy-600 transition-colors duration-300">
-                Explore Dishes
+              <a href="#about" className="inline-flex justify-center items-center gap-2 px-8 py-4 bg-white text-slate-800 font-bold rounded-full border-2 border-slate-200 hover:border-spicy-500 hover:text-spicy-600 transition-colors duration-300">
+                Reserve a Table
               </a>
             </div>
             
@@ -46,7 +46,7 @@ const Hero = () => {
                 </div>
               </div>
               <div className="text-sm font-semibold text-slate-600">
-                Trusted by local <br/>food lovers in AP
+                Trusted by thousands of <br/>food lovers every day
               </div>
             </div>
           </div>
@@ -54,7 +54,7 @@ const Hero = () => {
           {/* Visual Elements */}
           <div className="relative mt-10 lg:mt-0">
             <div className="relative rounded-3xl overflow-hidden shadow-2xl aspect-[4/5] lg:aspect-square">
-              <img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/%22Hyderabadi_Dum_Biryani%22.jpg" alt="Authentic Biryani" className="object-cover w-full h-full" />
+              <img src="https://images.unsplash.com/photo-1589302168068-964664d93cb0?auto=format&fit=crop&q=80&w=800" alt="Authentic Biryani" className="object-cover w-full h-full" />
               <div className="absolute inset-0 bg-gradient-to-t from-black/70 via-black/20 to-transparent"></div>
               
               <div className="absolute bottom-8 left-8 right-8">
