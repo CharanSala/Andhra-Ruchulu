@@ -4,22 +4,22 @@ const dishes = [
   {
     name: "Hyderabadi Dum Biryani",
     desc: "The world-famous biryani, slow-cooked with tender meat and aromatic spices.",
-    img: "https://images.unsplash.com/photo-1633945274405-b6c8069047b0?auto=format&fit=crop&w=800&q=80",
+    img: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Biryani_Home.jpg/800px-Biryani_Home.jpg",
   },
   {
     name: "Gongura Mamsam",
     desc: "A fiery red meat curry cooked with tangy sorrel leaves, specific to the Guntur region.",
-    img: "https://images.unsplash.com/photo-1606491956689-2ea866880c84?auto=format&fit=crop&w=800&q=80",
+    img: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Mutton_Curry%2C_India.jpg/800px-Mutton_Curry%2C_India.jpg",
   },
   {
     name: "Bhimavaram Royyalu",
     desc: "Deep-fried prawns tossed in coastal Godavari spices, curry leaves, and green chilies.",
-    img: "https://images.unsplash.com/photo-1559742811-822873691fc8?auto=format&fit=crop&w=800&q=80",
+    img: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Prawn_Fry.jpg/800px-Prawn_Fry.jpg",
   },
   {
     name: "Pootharekulu",
     desc: "The 'paper sweet' of Atreyapuram. Fine rice starch layers folded with ghee and jaggery.",
-    img: "https://images.unsplash.com/photo-1601050690597-df0568f70950?auto=format&fit=crop&w=800&q=80",
+    img: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Pootharekulu_traditional_sweet_from_Andhra_Pradesh.jpg/800px-Pootharekulu_traditional_sweet_from_Andhra_Pradesh.jpg",
   }
 ];
 
